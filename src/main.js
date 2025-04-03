@@ -10,3 +10,8 @@ import "./styles/schedule.css"
 
 // Após importar o CSS foi retirado o arquivo index.css e removido o stylesheet do index.htm para que o webpack cuide do carregamento dos estilos
 
+// JS
+import "./modules/form/submit.js"
+import "./modules/form/date-change.js"
+
+import "./modules/page-load.js"
